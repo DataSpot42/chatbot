@@ -1,0 +1,22 @@
+.popupwindow {
+    display: flex;
+    max-height: 50%;
+    
+
+    
+
+}
+.popup-content {
+    background-color: rgb(243, 253, 249);
+    max-height: 80%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 400px;
+    overflow: auto;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.learning-option-button {
+  background-color: rgb(220, 233, 247);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
